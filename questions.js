@@ -1,4 +1,4 @@
-var NumberOfWords = 40
+var NumberOfWords = 45
 
 var words = new BuildArray(NumberOfWords)
 
@@ -38,12 +38,18 @@ words[31] = "skulle kuknnat vara med i PH?"
 words[32] = "skulle kunna ta sms-lån?"
 words[33] = "kommer spy ikväll?"
 words[34] = "har sämst humor?"
-words[35] = "cxcxc"
+words[35] = "kryddar mest?"
 words[36] = "har mest åldersnojja?"
 words[37] = "är mest romantisk?"
 words[38] = "är en fjäskare?"
 words[39] = "är bäst på beer pong?"
 words[40] = "sveper långsamast?"
+words[41] = "ALLA DRICKER"
+words[42] = "ALLA DRICKER?"
+words[43] = "har blivit nekad inträde flest gånger?"
+words[44] = "har blivit utslängd flest gånger?"
+words[45] = "har får oftast minnesluckor?"
+
 
 
 function BuildArray(size){

@@ -7,6 +7,7 @@ body {
     color: #fff;
     font-weight: 300;
     background-image: url('firework.jpg');
+    background-repeat: no-repeat;
 }
 
 h1 {
@@ -51,6 +52,11 @@ h1 {
     background-color: crimson;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
+}
+
+.info {
+    position: relative;
+    width: 600px;
 }
 
 /* Popup container - can be anything you want */
