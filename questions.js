@@ -39,11 +39,11 @@ words[32] = "skulle kunna ta sms-lån?"
 words[33] = "kommer spy ikväll?"
 words[34] = "har sämst humor?"
 words[35] = "cxcxc"
-words[36] = "bankruptcy"
-words[37] = "bankruptcy"
-words[38] = "bankruptcy"
-words[39] = "bankruptcy"
-words[40] = "bankruptcy"
+words[36] = "har mest åldersnojja?"
+words[37] = "är mest romantisk?"
+words[38] = "är en fjäskare?"
+words[39] = "är bäst på beer pong?"
+words[40] = "sveper långsamast?"
 
 
 function BuildArray(size){
