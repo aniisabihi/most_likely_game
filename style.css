@@ -6,7 +6,7 @@ body {
     line-height: 1.65em;
     color: #fff;
     font-weight: 300;
-    background: url('firework.jpg') no-repeat center center fixed;
+    background: url('pek.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,10 +14,10 @@ body {
 }
 
 h1 {
+    font-size: 50px;
     text-align: center;
     margin: 20% 0 5% 0;
-    color: white;
-    text-shadow: 5px 5px black;
+    color: black;
 }
 
 h2 {
@@ -39,7 +39,7 @@ h2 {
     text-align: center;
     background: #fff;
     border-radius: 6px;
-    color: #black;
+    color: black;
     transition: 1s linear;
 }
 
@@ -73,6 +73,7 @@ h2 {
     opacity: 80%;
     border-radius: 10px;
     padding: 10px;
+    display: none;
 }
 
 /* Popup container - can be anything you want */
